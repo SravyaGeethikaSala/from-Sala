@@ -1,5 +1,3 @@
-# from-Sala
-
 # Sravya Geethika Sala
 ## My favorite sport is Cricket
 
