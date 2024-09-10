@@ -13,6 +13,6 @@ Sachin Tendulkar (India)
 Sir Garfield Sobers (West Indies) 
 
  Places i can play cricket are 
- -school grounds 
- -public parks 
- -stadiums  
+ * school grounds 
+ * public parks 
+ * stadiums  
