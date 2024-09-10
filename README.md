@@ -11,3 +11,8 @@ I like cricket because it's fun, exciting, and brings people together. My favori
 Sir Don Bradman (Australia)
 Sachin Tendulkar (India)
 Sir Garfield Sobers (West Indies) 
+
+ Places i can play cricket are 
+ *school grounds 
+ *public parks 
+ *stadiums  
