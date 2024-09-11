@@ -27,3 +27,19 @@ This table below showcases four Indian restaurants that are known for their flav
 > "I’m reading a book about anti-gravity. It’s impossible to put down." - ***George Carlin***
 
 ---
+
+### Code Fencing
+
+This TypeScript snippet creates a debounce function that delays the execution of a given function until after a specified delay, preventing it from being called repeatedly in quick succession.
+
+```
+const debounce = (fn: Function, ms = 300) => {
+	let timeoutId: ReturnType;
+  return function (this: any, ...args: any[]) {
+	  clearTimeout(timeoutId);
+    timeoutId = setTimeout(() => fn.apply(this, args), ms);
+  };
+};
+
+```
+[TypeScript Snippet](https://code.pieces.app/collections/typescript)
