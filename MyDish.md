@@ -18,3 +18,12 @@ This table below showcases four Indian restaurants that are known for their flav
 | Biryani Pot | Best for a variety of flavorful biryanis | Houston, TX |
 | Tandoor Palace | Cozy atmosphere with traditional dishes | Chicago, IL |
 
+---
+
+### Quotes
+
+> "The early bird might get the worm, but the second mouse gets the cheese." - ***Steven Wright***
+
+> "I’m reading a book about anti-gravity. It’s impossible to put down." - ***George Carlin***
+
+---
